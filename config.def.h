@@ -30,6 +30,7 @@ static const char *const autostart[] = {
 	"fixtouchpad", NULL,
 	"picom", NULL,
 	"dwmblocks", NULL,
+        "dunst", NULL,
 	"clipmenud", NULL,
 	NULL /* terminate */
 };
